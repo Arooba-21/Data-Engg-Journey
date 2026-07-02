@@ -12,11 +12,10 @@
 - **Learned:** SubQueries, Joins, CaseWhen, Having, Datefunctions
 - **File:** `SQL_queries.sql`
 
-### Day 7- June 25
+### Day 7-8 June 25,26
 - **Learned:** PYTHON- groupby, Aggregate, filtering, Merge
-
-### Day 8- June 26
-- **Learned:** PYTHON- Postgre connection, Data quality checks, date/time operations, string operations
+ PYTHON- Postgre connection, Data quality checks, date/time operations, string operations
+- **File:** `Python_code.ipynb`
 
 ### Day 9-12 - June 27 to 30
 - After learning sql and python and before moving towards next step i started one little pipeline project(Climate analysis) ETL.
