@@ -17,9 +17,16 @@
  PYTHON- Postgre connection, Data quality checks, date/time operations, string operations
 - **File:** `Python_code.ipynb`
 
-### Day 9-12 - June 27 to 30
-- After learning sql and python and before moving towards next step i started one little pipeline project(Climate analysis) ETL.
+### Day 9-14 - June 27 to July 2
+**Project 1: Pakistan Climate Analysis ETL**
+- Worked with 3 CSV files (Global, Pakistan, Karachi) 
 - CSV | Cleaning through Pandas | Load to Postgre | basic Insights with querys
 
+**Project 2: PKR Exchange Rate ETL Pipeline**
+- Fetched live JSON data from ExchangeRate-API
+- Parsed and transformed 8 target currencies, calculated PKR equivalent rates
+- Loaded to PostgreSQL with append mode to build historical data over time
+- Secured API key and DB credentials using .env + python-dotenv
+- Converted notebook to .py script, automated with Windows Task Scheduler (daily)
 
 
