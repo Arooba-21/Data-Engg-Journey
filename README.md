@@ -12,7 +12,7 @@ Started: June 18, 2026
 ## Projects
 | Project | Repo |
 |---------|------|
-| Pakistan Climate Analysis ETL | [link](github link here) |
+| Pakistan Climate Analysis ETL | https://github.com/Arooba-21/pakistan-climate-etl |
 | PKR Exchange Rate Pipeline | this repo |
 
 ## Tools & Stack
