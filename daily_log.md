@@ -26,4 +26,5 @@
 - Converted notebook to .py script, automated with Windows Task Scheduler (daily)
 - - **File:** `Exchange_rate_ETL_script.py`
 
-
+### Day 15
+- Starting with Docker(Airflow Concepts)
