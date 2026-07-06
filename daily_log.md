@@ -20,12 +20,16 @@
 
 **Project 2: PKR Exchange Rate ETL Pipeline**
 - Fetched live JSON data from ExchangeRate-API
-- Parsed and transformed 8 target currencies, calculated PKR equivalent rates
-- Loaded to PostgreSQL with append mode to build historical data over time
-- Secured API key and DB credentials using .env + python-dotenv
+- Parsed and transformed 8 target currencies, calculated PKR equivalent rates, Loaded to PostgreSQL
 - Converted notebook to .py script, automated with Windows Task Scheduler (daily)
 - - **File:** `Exchange_rate_ETL_script.py`
 
-### Day 15-16 
-- Starting with Docker(Airflow Concepts)
-- DAGS 
+### Day 15-18 - July 3 to July 6
+
+**Apache Airflow + Docker**
+- Learned Airflow architecture: DAGs, Tasks, Operators, Scheduler
+- Converted PKR Exchange Rate pipeline into proper Airflow DAG
+- Debugged real issues: port conflicts, .env not loading, 
+  container scope, CSV intermediate files between tasks
+- Successfully ran 3-task DAG: extract → transform → load
+- Data loaded to PostgreSQL automatically via Airflow scheduler
