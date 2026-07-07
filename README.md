@@ -1,19 +1,31 @@
-# Data Engineering Journey 🚀
+# Data Engineering Journey
 
-Self-structured learning path to become a data engineer.
-Started: June 18, 2026
+Self-structured learning path: 
+- SQL → Python → ETL Pipelines → Apache Airflow → Azure (in progress)
 
-## Topics Covered So Far
-- PostgreSQL, Window Functions, CTEs, Joins
-- Python: Pandas, SQLAlchemy, API calls
-- ETL Pipelines (CSV + API based)
-- Automation with Windows Task Scheduler
+Started: June 18, 2026 | Status: Active
 
-## Projects
-| Project | Repo |
-|---------|------|
-| Pakistan Climate Analysis ETL | https://github.com/Arooba-21/pakistan-climate-etl |
-| PKR Exchange Rate Pipeline | this repo |
+## Roadmap Progress
+| Phase | Topics | Status |
+|-------|---------|--------|
+| Phase 1 | Advanced SQL (Window Functions, CTEs, JOINs) | Done |
+| Phase 2 | Python + Pandas (ETL, PostgreSQL) | Done |
+| Phase 3 | Apache Airflow + Docker | Done |
+| Phase 4 | Azure (ADF, Blob Storage) | In Progress |
 
-## Tools & Stack
-Python | Pandas | PostgreSQL | SQLAlchemy | Jupyter
+## Projects Built
+| Project | Tech Stack | Type |
+|---------|-----------|------|
+| [Pakistan Climate ETL](https://github.com/Arooba-21/pakistan_climate_etl) | Python, Pandas, PostgreSQL | Batch Pipeline |
+| [PKR Exchange Rate Pipeline](https://github.com/Arooba-21/exchange-rate-airflow-pipeline) | Airflow, Docker, PostgreSQL | Automated Pipeline |
+| Superstore Sales Pipeline | Python, PostgreSQL, Airflow | ETL Practice |
+
+## Skills Demonstrated
+- Writing complex SQL (CTEs, Window Functions, JOINs)
+- Building ETL pipelines from scratch
+- Automating pipelines with Apache Airflow + Docker
+- Securing credentials with .env files
+- Connecting Python to PostgreSQL via SQLAlchemy
+
+## Daily Log
+See [daily_log.md](daily_log.md) for day-by-day progress
