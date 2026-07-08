@@ -16,7 +16,7 @@ Started: June 18, 2026 | Status: Active
 ## Projects Built
 | Project | Tech Stack | Type |
 |---------|-----------|------|
-| [Pakistan Climate ETL](https://github.com/Arooba-21/pakistan_climate_etl) | Python, Pandas, PostgreSQL | Batch Pipeline |
+| [Pakistan Climate ETL](https://github.com/Arooba-21/pakistan-climate-etl) | Python, Pandas, PostgreSQL | Batch Pipeline |
 | [PKR Exchange Rate Pipeline](https://github.com/Arooba-21/exchange-rate-airflow-pipeline) | Airflow, Docker, PostgreSQL | Automated Pipeline |
 | Superstore Sales Pipeline | Python, PostgreSQL, Airflow | ETL Practice |
 
