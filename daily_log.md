@@ -33,3 +33,11 @@
   container scope, CSV intermediate files between tasks
 - Successfully ran 3-task DAG: extract → transform → load
 - Data loaded to PostgreSQL automatically via Airflow scheduler
+  
+### Day 19-20 - July8 - 9
+- Set up LocalStack using Docker
+- Created an S3 bucket
+- Implemented S3 read/write operations using boto3
+- Designed and implemented a Data Lake architecture
+- Built the complete pipeline: API → S3 → PostgreSQL
+
