@@ -11,7 +11,8 @@ Started: June 18, 2026 | Status: Active
 | Phase 1 | Advanced SQL (Window Functions, CTEs, JOINs) | Done |
 | Phase 2 | Python + Pandas (ETL, PostgreSQL) | Done |
 | Phase 3 | Apache Airflow + Docker | Done |
-| Phase 4 | Azure (ADF, Blob Storage) | In Progress |
+| Phase 4 | AWS basics | done |
+| Phase 5 | dbt | In progress |
 
 ## Projects Built
 | Project | Tech Stack | Type |
