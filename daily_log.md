@@ -44,6 +44,6 @@
 
 ### Day 23 - July 15
 - working with dbt concepts
-
+- tried working on projects with the avaliable info i had.
   
 
