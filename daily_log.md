@@ -46,5 +46,6 @@
 - working with dbt concepts
 - tried working on projects with the avaliable info i had.
 - project:pakistan_economic_dashboard-seperate repo
-- making documentation/cheetsheet of all the concepts. 
+- making documentation/cheetsheet of all the concepts.
+- learning basic concepts of datamodeilng(normalization,Warehouse Modeling (Fact/Dim, Grain, Surrogate Keys),SCD Type 1/2)
 
