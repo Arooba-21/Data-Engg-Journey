@@ -42,10 +42,11 @@
 - Built the complete pipeline: API → S3 → PostgreSQL
 - updated the same exchange rate ETL project to fully implemented by AWS
 
-### Day 23-33 - July 15 - 25
+### Day 23- - July 15 - 
 - working with dbt concepts
 - tried working on projects with the avaliable info i had.
-- project:pakistan_economic_dashboard-seperate repo
+- project:pakistan_economic_dashboard(seperate repo)
 - making documentation/cheetsheet of all the concepts.
 - learning basic concepts of datamodeilng(normalization,Warehouse Modeling (Fact/Dim, Grain, Surrogate Keys),SCD Type 1/2)
+- start learning spark and databricks.
 
